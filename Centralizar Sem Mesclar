@@ -1,3 +1,5 @@
+Macro para Excel abaixo:
+
 Sub centralizar_sem_mesclar()
 With Selection
 .MergeCells = False
