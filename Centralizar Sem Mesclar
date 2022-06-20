@@ -1,0 +1,6 @@
+Sub centralizar_sem_mesclar()
+With Selection
+.MergeCells = False
+.HorizontalAlignment = xlCenterAcrossSelection
+End With
+End Sub
